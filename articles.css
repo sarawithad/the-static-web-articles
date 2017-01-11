@@ -1,0 +1,55 @@
+.article1 {
+	background-color: red;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:2em;
+	color: lightblue;
+	line-height: 90%;
+	padding: .5em;
+	border-radius: 100px;
+	text-align: center;
+}
+
+.article2 {
+	background-color: darkblue;
+	font-family: "TrebuchetMS", Helvetica, sans-serif;
+	font-size: 1em;
+	color: yellow;
+	line-height: 1.5em;
+	padding: 10px 5px 8px 5px;
+	border-radius: 15px;
+
+}
+
+.article3 {
+	background-color: lightgreen;
+	font-family: Western, fantasy;
+	font-size: 2.5em;
+	color: orange;
+	line-height: 1em;
+	padding: .75em;
+	border-radius: 40%;
+	text-align: center;
+}
+
+.article4 {
+	background-color: yellow;
+	font-family: Courier, monospace;
+	font-size: 1.5em;
+	color: red;
+	line-height: 100%;
+	padding: 1em;
+	border-bottom-left-radius: 25%;
+	border-top-right-radius: 25%;
+	text-align: center;
+}
+
+.article5 {
+	background-color: purple;
+	font-family: Lucida, sans-serif;
+	font-size: .5em;
+	color: darkgrey;
+	line-height: 25px;
+	padding: 2em;
+	border-radius: 500%;
+	text-align: center;
+}
